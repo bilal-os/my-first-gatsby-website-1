@@ -15,6 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "caniuse-lite": "^1.0.30001488",
     "gatsby": "^5.9.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
